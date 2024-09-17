@@ -1,0 +1,78 @@
+j4y0-tmu5-4fx6-xfd5-aegt  shair market
+
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rakesh Kumar - Personal Webpage</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        .container {
+            width: 80%;
+            margin: 0 auto;
+            overflow: hidden;
+        }
+        header {
+            background: #333;
+            color: #fff;
+            padding-top: 30px;
+            min-height: 70px;
+            border-bottom: #ddd 3px solid;
+            text-align: center;
+        }
+        header h1 {
+            margin: 0;
+        }
+        .bio {
+            background: #fff;
+            padding: 20px;
+            margin-top: 20px;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        .bio h2 {
+            margin-top: 0;
+        }
+        footer {
+            background: #333;
+            color: #fff;
+            text-align: center;
+            padding: 10px;
+            position: absolute;
+            bottom: 0;
+            width: 100%;
+        }
+        a {
+            color: #06c;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Rakesh Kumar</h1>
+            <p>Retired Army Personnel</p>
+        </div>
+    </header>
+
+    <div class="container">
+        <div class="bio">
+            <h2>About Me</h2>
+            <p>Namaste! Mera naam Rakesh Kumar hai aur maine Bharat ki Sena me 17 saal se adhik samay tak seva ki hai. Mujhe Ahmednagar, Babina, Jodhpur, Jammu, Leh Ladakh, aur Roorkee jaisi kai jagah par kaam karne ka avsar mila. Mera military career mujhe desh ke alag-alag hisson ki diverse cultures aur challenges ke sath interact karne ka mauka diya.</p>
+            <p>Service ke dauran maine kai mahatvapurn karyon ko anjaam diya aur naye experiences ka samna kiya. Army ke alawa, mujhe vibhinn hobbies aur activities mein ruchi hai jo mujhe aaj bhi apni zindagi mein khush rakhte hain.</p>
+        </div>
+    </div>
+
+    <footer>
+        <p>&copy; 2024 Rakesh Kumar. All rights reserved.</p>
+    </footer>
+</body>
+</html>
+
